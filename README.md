@@ -1,6 +1,6 @@
 ### Welcome to my world 👋
 
-## Hi, I'm André Ferreira, creator of programming and technology content!
+## Hi, I'm André Ferreira, developer front-end and Enthusiast of the best web & mobile development technologies.
 
 - 🔭 I’m currently working on Front-End Developer!
 - 🌱 I’m currently learning React,js - Python!
