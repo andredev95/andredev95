@@ -6,7 +6,7 @@
 
 ## About me:
 
-- 🔭 I’m currently working on Front-End Developer!
+- 🔭 I’m currently working as a Front-End Developer!
 - 🌱 I’m currently learning React,js - Python!
 - 👯 I’m looking to collaborate on open source and private technologies!
 - 🤔 I’m looking for help with HTML - CSS - JS - React - Web Accessibility - Digital Presence!
