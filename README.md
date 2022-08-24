@@ -2,7 +2,7 @@
 
 ## 
 
-## Hi, I'm André Ferreira, developer front-end and Enthusiast of the best web & mobile development technologies.
+## Hi, I'm André Ferreira, developer front-end and Enthusiast of the best web & mobile development technologies!!!
 
 ## About me:
 
