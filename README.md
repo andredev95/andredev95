@@ -22,7 +22,7 @@
 
 ## 
 
-## 📊 My Stats | Minhas Estatísticas
+## 📊 My Stats | 
 
 <div align="center">
   <a href=https://www.linkedin.com/in/andrecosta1995/">
@@ -31,7 +31,7 @@
 </div>
 
 
-## 🔧 My core Skillset | Minhas Skills
+## 🔧 My core Skillset | 
 <div style="display: inline_block"><br>
   <img align="center" alt="Andredev95-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Andredev95-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
