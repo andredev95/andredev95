@@ -1,4 +1,4 @@
-### Hello world, Welcome to my world !!! 🇧🇷
+### Hello world, Welcome to my world !!! 
 
 ```JavaScript
 const AndréFerreiraDaCosta = {
