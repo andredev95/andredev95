@@ -1,5 +1,15 @@
 ### Hello world, Welcome to my world 🇧🇷
 
+```JavaScript
+const AndréFerreiraDaCosta = {
+  nome: "André Ferreira da Costa",
+  Area: "DESENVOLVIMENTO WEB",
+  Tecnologias: ["HTML", "CSS", "JavaScript", "React", "Figma", "Linux", "TypeScript"],
+};
+```
+
+----
+
 ## 
 
 ## Hi, I'm André Ferreira, developer front-end and Enthusiast of the best web & mobile development technologies!!!!
