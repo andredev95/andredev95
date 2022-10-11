@@ -16,11 +16,11 @@ const AndréFerreiraDaCosta = {
 
 ## About me:
 
-- 🔭 I’m currently working as a Front-End Developer!!
-- 🌱 I’m currently learning React,js - Python!!
-- 👯 I’m looking to collaborate on open source and private technologies!!
-- 🤔 I’m looking for help with HTML - CSS - JS - React - Web Accessibility - Digital Presence!!
-- 💬 Ask me about HTML - CSS - JS - Web - React - Web Accessibility - Digital Presence!!
+- 🔭 I’m currently working as a Front-End Developer!
+- 🌱 I’m currently learning React,js - Python!
+- 👯 I’m looking to collaborate on open source and private technologies!
+- 🤔 I’m looking for help with HTML - CSS - JS - React - Web Accessibility - Digital Presence!
+- 💬 Ask me about HTML - CSS - JS - Web - React - Web Accessibility - Digital Presence!
 - 📫 How to reach me: andreferreira.dev95@gmail.com
 - ⚡ Fun fact: CTO OWL-CODER
 ## 
