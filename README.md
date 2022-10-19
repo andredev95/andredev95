@@ -6,7 +6,7 @@ const AndréFerreiraDaCosta = {
   Idade: "27 anos",
   Localização: "Rua Vinícius de Moraes, Parque Santa Teresa, Carapicuíba - SP",
   Graduação: "Análise e Desenvolvimento de Sistemas ",
-  Area: "DESENVOLVIMENTO WEB",
+  Area: "DESENVOLVIMENTO WEB  (Front-End)",
   Tecnologias: ["JavaScript", "React","TypeScript", "HTML", "CSS", "Figma", "Linux",],
 };
 ```
