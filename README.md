@@ -7,7 +7,7 @@ const AndréFerreiraDaCosta = {
   Localização: "Rua Vinícius de Moraes, Parque Santa Teresa, Carapicuíba - SP",
   Graduação: "Análise e Desenvolvimento de Sistemas ",
   Area: "DESENVOLVIMENTO WEB",
-  Tecnologias: ["HTML", "CSS", "JavaScript", "React", "Figma", "Linux", "TypeScript"],
+  Tecnologias: ["JavaScript", "React","TypeScript", "HTML", "CSS", "Figma", "Linux",],
 };
 ```
 
