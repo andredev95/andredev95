@@ -2,7 +2,10 @@
 
 ```JavaScript
 const AndréFerreiraDaCosta = {
-  nome: "André Ferreira da Costa",
+  Nome: "André Ferreira da Costa",
+  Idade: "27 anos",
+  Localização: "Rua Vinícius de Moraes, Parque Santa Teresa, Carapicuíba - SP",
+  Graduação: "Análise e Desenvolvimento de Sistemas ",
   Area: "DESENVOLVIMENTO WEB",
   Tecnologias: ["HTML", "CSS", "JavaScript", "React", "Figma", "Linux", "TypeScript"],
 };
