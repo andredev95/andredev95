@@ -15,17 +15,18 @@ const AndréFerreiraDaCosta = {
 
 ## 
 
-## Hi, I'm André Ferreira, developer front-end and Enthusiast of the best web & mobile development technologies!!
+## Olá, sou André Ferreira, desenvolvedor front-end e entusiasta das melhores tecnologias de desenvolvimento web e mobile!!!
+!!
 
-## About me:
+## Sobre mim :
 
-- 🔭 I’m currently working as a Front-End Developer!
-- 🌱 I’m currently learning React,js - Python!
-- 👯 I’m looking to collaborate on open source and private technologies!
-- 🤔 I’m looking for help with HTML - CSS - JS - React - Web Accessibility - Digital Presence!
-- 💬 Ask me about HTML - CSS - JS - Web - React - Web Accessibility - Digital Presence!
-- 📫 How to reach me: andreferreira.dev95@gmail.com
-- ⚡ Fun fact: CTO OWL-CODER
+- 🔭 Atualmente trabalho como Desenvolvedor Front-End!!
+- 🌱 Atualmente estou aprendendo  | JavaScript  |   React.JS  |Figma |!
+- 👯  Estou procurando colaborar em tecnologias de código aberto e privadas!!
+- 🤔 Procuro ajuda com HTML - CSS - JS - React - Acessibilidade Web - Presença Digital!
+- 💬 Pergunte-me sobre  | JavaScript  |   React.JS  |  HTML | CSS | MySQL  | Git | Github  | Linux | Figma | Notion | Arquitetura de Soluções e Requisitos!
+- 📫 Como me contatar: andreferreira.dev95@gmail.com
+- ⚡  Curiosidade: CTO OWL-CODER
 ## 
 <h3>💻 Current stack</h3>
 ☑️ Seeking business expansion for OWL-CODER <br />
