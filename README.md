@@ -28,7 +28,7 @@ const AndréFerreiraDaCosta = {
 - 📫 Como me contatar: andreferreira.dev95@gmail.com
 - ⚡  Curiosidade: CTO OWL-CODER
 ## 
-<h3>💻 Current stack</h3>
+<h3>💻 Metas Atuais</h3>
 ☑️ Buscando expansão de negócios para OWL-CODER <br />
 ☑️ Buscando parcerias para ampliar nosso conhecimento <br />
 ☑️ Criação de conteúdo sobre Inovação e Programação (em breve)<br />
