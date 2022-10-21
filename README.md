@@ -16,27 +16,27 @@ const AndréFerreiraDaCosta = {
 ## 
 
 ## Olá, sou André Ferreira, desenvolvedor front-end e entusiasta das melhores tecnologias de desenvolvimento web e mobile!!!
-!!
+
 
 ## Sobre mim :
 
 - 🔭 Atualmente trabalho como Desenvolvedor Front-End!!
 - 🌱 Atualmente estou aprendendo  | JavaScript  |   React.JS  |Figma |!
-- 👯  Estou procurando colaborar em tecnologias de código aberto e privadas!!
+- 👯  Estou procurando colaborar em tecnologias open source e privadas!!
 - 🤔 Procuro ajuda com HTML - CSS - JS - React - Acessibilidade Web - Presença Digital!
 - 💬 Pergunte-me sobre  | JavaScript  |   React.JS  |  HTML | CSS | MySQL  | Git | Github  | Linux | Figma | Notion | Arquitetura de Soluções e Requisitos!
 - 📫 Como me contatar: andreferreira.dev95@gmail.com
 - ⚡  Curiosidade: CTO OWL-CODER
 ## 
 <h3>💻 Current stack</h3>
-☑️ Seeking business expansion for OWL-CODER <br />
-☑️ Looking for partnerships to expand our knowledge <br />
-☑️ Creating content on Innovation and Programming (coming soon)<br />
-☑️ Learning and applying new Marketing ever<br />
+☑️ Buscando expansão de negócios para OWL-CODER <br />
+☑️ Buscando parcerias para ampliar nosso conhecimento <br />
+☑️ Criação de conteúdo sobre Inovação e Programação (em breve)<br />
+☑️ Aprendendo e aplicando o novo Marketing de sempre<br />
 
 ## 
 
-## 📊 My Stats | 
+## 📊 Minhas estatisticas | 
 
 <div align="center">
   <a href=https://github.com/andredev95">
@@ -44,7 +44,7 @@ const AndréFerreiraDaCosta = {
 </div>
 
 
-## 🔧 My core Skillset | 
+## 🔧 conjunto de habilidades | 
 <div style="display: inline_block"><br>
   <img align="center" alt="Andredev95-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Andredev95-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -61,7 +61,7 @@ const AndréFerreiraDaCosta = {
  
   
   ##
- ## Connect with me:
+ ## Conecte-se comigo:
 <div> 
   <a href="https://www.instagram.com/andrecosta.dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
