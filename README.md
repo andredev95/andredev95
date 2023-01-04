@@ -4,7 +4,7 @@
 const AndréFerreiraDaCosta = {
   Nome: "André Ferreira da Costa",
   Idade: "27 anos",
-  Localização: "Rua Vinícius de Moraes, Parque Santa Teresa, Carapicuíba - SP",
+  Localização: "Parque Santa Teresa, Carapicuíba - SP",
   Graduação: "Análise e Desenvolvimento de Sistemas ",
   Area: "DESENVOLVIMENTO WEB  (Front-End)",
   Tecnologias: [" | JavaScript  |   React.JS  |  HTML | CSS | MySQL  | Git | Github  | Linux | Figma | Notion |
