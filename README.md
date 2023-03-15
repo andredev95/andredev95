@@ -8,7 +8,7 @@ const FrontEndDeveloper = {
   Graduação: "👨🏻‍🎓I.T (Information Technology) - ",
   Area: "DESENVOLVIMENTO WEB  (Front-End) 
   Tecnologias: ["| JavaScript | React.JS | TypeScript | Design System | Figma | UX/UI | Git | Github | Linux | Notion ..."],
-   CTO & Founder: Owl Coder 🦉,
+  CTO&Founder: "Owl-Coder 🦉",
 };
 ```
 
