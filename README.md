@@ -1,14 +1,14 @@
 ### Hello world, Welcome to my world !!! 
 
 ```JavaScript
-const FrontEndDeveloper = [
+const FrontEndDeveloper = {
   Nome: "André Ferreira da Costa",
   Idade: "27 anos",
   Localização: "Parque Santa Teresa, Carapicuíba - SP",
   Graduação: "👨🏻‍🎓I.T (Information Technology) - ",
   Area: "DESENVOLVIMENTO WEB  (Front-End) 
   Tecnologias: ["| JavaScript | React.JS | TypeScript | Design System | Figma | UX/UI | Git | Github | Linux | Notion ..."],
-];
+};
 ```
 
 ----
