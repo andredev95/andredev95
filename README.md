@@ -25,7 +25,7 @@ const FrontEndDeveloper = {
 - 🌱 Atualmente estou aprendendo  | JavaScript  |   React.JS  |Figma |!
 - 👯  Estou procurando colaborar em tecnologias open source e privadas!!
 - 🤔 Procuro ajuda com HTML - CSS - JS - React - Acessibilidade Web - Presença Digital!
-- 💬 Pergunte-me sobre  | JavaScript  |   React.JS  |  HTML | CSS | MySQL  | Git | Github  | Linux | Figma | Notion | Arquitetura de Soluções e Requisitos!
+- 💬 Pergunte-me sobre  | JavaScript  |   React.JS  |  HTML | CSS | MySQL  | Git | Github  | Linux | Figma | Notion |
 - 📫 Como me contatar: andreferreira.dev95@gmail.com
 - ⚡  Curiosidade: CTO OWL-CODER
 ## 
